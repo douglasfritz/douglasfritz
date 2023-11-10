@@ -1,4 +1,9 @@
-### Hi there 👋
+I am broadly interested in the fields of maternal/fetal health, planetary health, emerging pathogens, AI, infectious disease, virology and immunology. I’m a tinkerer: from latte machines, to laser cutters, to LLMs, I like building stuff, fixing stuff, and making my life better though technology.
+
+-Skills: Wet Lab, Bioinformatics, R Markdown, SQL, Excel, Data Analysis, Public Speaking, Climate Advocacy
+
+
+📫 How to reach me: https://www.linkedin.com/in/douglas-fritz/
 
 <!--
 **douglasfritz/douglasfritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
